@@ -8,3 +8,8 @@
 
 ## Check if Project OK
 run >> python manage.py runserver [specfickan port]
+
+## Add New Django App
+run >> python manage.py startapp polls
+
+## 
