@@ -13,7 +13,8 @@ run >> python manage.py runserver [specfickan port]
 run >> python manage.py startapp polls
 
 ## Edit urls.py file
-* pergi ke urls.py
+* pergi buat urls.py dalam app dulu. xde create
+* pergi ke urls.py dalam project pulak
 * import include function
 * guna include function untuk tambah routing kat
 
